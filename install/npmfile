@@ -1,8 +1,8 @@
+eslint
 fast-cli
 fkill-cli
-get-port-cli
-gtop
 local-web-server
+localtunnel
 npm
 npm-check-updates
 prettier
@@ -10,5 +10,3 @@ release-it
 pnpm
 svgo
 tldr
-underscore-cli
-yarn

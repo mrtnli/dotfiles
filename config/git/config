@@ -1,9 +1,9 @@
 [user]
-	name = Lars Kappert
-	email = lars@webpro.nl
+	name = Martin Lind
+	email = m@mrtn.li
 
 [github]
-	user = webpro
+	user = mrtnli
 
 [core]
 	excludesfile = ~/.config/git/ignore
@@ -74,7 +74,7 @@
 [difftool]
 	prompt = false
 
-[difftool "sourcetree"]
+[difftool "smerge"]
 	cmd = code --wait --diff $LOCAL $REMOTE
 	path =
 
@@ -85,7 +85,7 @@
 [mergetool]
 	prompt = false
 
-[mergetool "sourcetree"]
+[mergetool "smerge"]
 	cmd = code --wait $MERGED
 	trustExitCode = true
 

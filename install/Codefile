@@ -1,9 +1,11 @@
 adpyke.codesnap
-dbaeumer.vscode-eslint
 eamodio.gitlens
-esbenp.prettier-vscode
-hediet.vscode-drawio
 naumovs.color-highlight
-redhat.vscode-yaml
 sharat.vscode-brewfile
-stkb.rewrap
+ms-azuretools.vscode-docker
+EditorConfig.EditorConfig
+dbaeumer.vscode-eslint
+ms-vscode.makefile-tools
+esbenp.prettier-vscode
+svelte.svelte-vscode
+redhat.vscode-yaml
