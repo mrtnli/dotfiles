@@ -85,4 +85,4 @@ To customize the dotfiles to your likings, fork it and [be the king of your cast
 
 ## Credits
 
-Many thanks to the [dotfiles community](https://dotfiles.github.io).
+Many thanks to [webpro](https://github.com/webpro) and the [dotfiles community](https://dotfiles.github.io).
