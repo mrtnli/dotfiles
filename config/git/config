@@ -1,5 +1,5 @@
 [user]
-	name = Martin Lind
+	name = Martin
 	email = m@mrtn.li
 
 [github]
@@ -95,3 +95,5 @@
 
 [color]
 	ui = auto
+[http]
+	sslVerify = true
